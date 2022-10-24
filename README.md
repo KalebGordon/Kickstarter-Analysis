@@ -8,6 +8,8 @@ The average goal of successful kickstarter campaigns is $5,048.88, with the medi
 
 We have also discovered that the best months to initiate a successful kickstarter campaign would be during the summer months. In the theater category, the top three successful months to start a kickstarter are May (66.87%), June (65.36%), and July (63.04%). 
 
+![](resources/Outcomes_vs_Goals.png)
 
 Kickstarters for theater projects in the United States have a success rate of 57.57%. 
 
+Outcomes_vs_Goals.png
