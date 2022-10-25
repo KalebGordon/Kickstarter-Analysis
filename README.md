@@ -20,8 +20,10 @@ First we wanted to do some in-depth descriptive statistics of successful and fai
 These in depth statistics helped us determine that the mean of the distributions is close to the third quartile, meaning the data follows similar distributions in each subset. We saw that the standard deviations were larger than the mean, meaning that everything below the mean was close to the center. And finally, it helped us determine outliers in our data, especially in over-ambitious failed kickstarters with astoundingly high goals. 
 
 Secondly, we made some pivot tables and charts that assisted us in the visualization of our data findings:
-![image](Crowdfunding_Analysis/Category_Statistics.png)
-![image](Crowdfunding_Analysis/Subcategory_Statistics.png)
+
+![image](Crowdfunding_Analysis/Category_Statistics.PNG)
+
+![image](Crowdfunding_Analysis/Subcategory_Statistics.PNG)
 
 
 
