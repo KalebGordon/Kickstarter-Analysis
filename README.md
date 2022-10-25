@@ -25,7 +25,7 @@ Secondly, we made some pivot tables and charts that assisted us in the visualiza
 
 ![image](Crowdfunding_Analysis/Subcategory_Statistics.PNG)
 
-##Results
+## Results
 
 Kickstarters for theater projects in the United States have a success rate of 57.57%. In our analysis, we have discovered multiple factors that make this campaign more successful. 
 
