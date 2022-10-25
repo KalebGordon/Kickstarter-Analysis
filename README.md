@@ -40,3 +40,10 @@ We have also discovered that the best months to initiate a successful kickstarte
 
 Based on our findings, our best chances for a kickstarter campaign would be one with a goal less than $1,000 that is initiated in May. 
 
+## Limitations
+
+There are a few limitations with this data set. The first would be that there is no conclusive way to determine if a kickstarter campaign is "real". In reality, it would be given that kickstarter campaigns that are extreme outliers would be a good guess, but there may be kickstarters within this data set where the creater had no intention to follow through with the campaign or product. This data does not have any information regarding advertising the kickstarter campaigns on other platforms. If a campaign spent hundreds in advertising, this may skew the data for that campaign if we wish to have a raw analysis of the campaign. There are over 4,000 entries in the data set, so there is not a worry regarding this data set's "population size."
+
+## Additional_Visualizations
+
+There may be more room for visualizing this data to help Louise. First, a graph for the kickstarter's runtime vs. outcome would be beneficial because certain campaigns may more realistically reach their goals given a longer run time. Another interesting graph may be the length of the kickstarter name vs. outcome. Longer more descriptive names may be less likely to catch someone's attention, while shorter precise names may persuade someone to donate. 
