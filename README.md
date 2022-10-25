@@ -1,9 +1,9 @@
-# An-Analysis-of-Kickstarter-Campaigns
+# An Analysis of Kickstarter Campaigns
 
 ##Brief-Description
 An up and coming playright, Louise, wants to start a kickstarter campaign to fund her play. She has tasked us with analyzing kickstarter data to determine factors that make a kickstarter campaign successful. 
 
-## Analysis-and-Challenges
+## Analysis and Challenges
 
 Our analysis began by cleaning up the pulled kickstarter data. One of the first things we did was to create conditional formatting for the outcomes. Using the highlight cell rules conditional formatting, we highlighted the successful outcomes green, failed outcomes red, canceled outcomes yellow, and the live outcomes blue. We converted the UNIX time stamps into dates in our conversion columns, as well as made a year column that took only the year from our conversion. To convert the UNIX timestamps, we used a function that converted seconds to days, then added that number of days to the UNIX date (1/1/1970). This function was =(((UNIX Timestamp/60)/60)/24)+DATE(1970,1,1). Then our function to take the year from that date was simple =YEAR(UNIX Date Conversion). In addition, we added some filters to select certain parameters when we wished. 
 
