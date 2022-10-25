@@ -1,8 +1,8 @@
 # An Analysis of Kickstarter Campaigns
 
-## Brief-Description
+## Overview
 
-An up and coming playright, Louise, wants to start a kickstarter campaign to fund her play. She has tasked us with analyzing kickstarter data to determine factors that make a kickstarter campaign successful. 
+An up and coming playright, Louise, wants to start a kickstarter campaign to fund her play. She has tasked us with analyzing kickstarter data to determine factors that make a kickstarter campaign successful. In this analysis, we look at multiple variables of kickstarter campaigns to determine which are more likely to succeed.
 
 ## Analysis and Challenges
 
