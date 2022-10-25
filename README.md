@@ -25,10 +25,7 @@ Secondly, we made some pivot tables and charts that assisted us in the visualiza
 
 ![image](Crowdfunding_Analysis/Subcategory_Statistics.PNG)
 
-
-
-
-
+##Results
 
 Kickstarters for theater projects in the United States have a success rate of 57.57%. In our analysis, we have discovered multiple factors that make this campaign more successful. 
 
@@ -37,9 +34,9 @@ The top three successful goal ranges in descending order are "Less than 1,000" a
 Based on this data, the best goal range for a successful kickstarter as a play would be less than $1,000. 
 ![image](Resources/Theater_Outcomes_vs_Launch.png)
 
-We have also discovered that the best months to initiate a successful kickstarter campaign would be during the summer months. In the theater category, the top three successful months to start a kickstarter are May (66.87%), June (65.36%), and July (63.04%). 
+We have also discovered that the best months to initiate a successful kickstarter campaign would be during the summer months. In the theater category, the top three successful months to start a kickstarter are May (66.87%), June (65.36%), and July (63.04%). The worst month to initiate a kickstarter campaign would be December with a success rate of 49.33%. 
 
 ![image](Resources/Outcomes_vs_Goals.png)
 
-So, based on our findings, our best chances for a kickstarter campaign would be one with a goal less than $1,000 that is initiated in May. This would yield an approximate success outcome, based on previous data, of 71.34%. 
+Based on our findings, our best chances for a kickstarter campaign would be one with a goal less than $1,000 that is initiated in May. 
 
