@@ -21,9 +21,9 @@ These in depth statistics helped us determine that the mean of the distributions
 
 Secondly, we made some pivot tables and charts that assisted us in the visualization of our data findings:
 
-![image](Crowdfunding_Analysis/Category_Statistics.PNG)
+![](Crowdfunding_Analysis/Category_Statistics.png)
 
-![image](Crowdfunding_Analysis/Subcategory_Statistics.PNG)
+![](Crowdfunding_Analysis/Subcategory_Statistics.png)
 
 
 
